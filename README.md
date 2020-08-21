@@ -1,1 +1,2 @@
-# GCD
+#  GCD
+#  Greater Common Divisor
